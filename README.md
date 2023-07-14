@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CindyKN
-- 👀 I’m interested in IT coding to be specific.
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on Data Science and Analytics.
+- 👀 I’m interested in Data Science and Analytics.
+- 🌱 I’m currently working as a Business Analyst.
 
 <!---
 CindyKN/CindyKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
