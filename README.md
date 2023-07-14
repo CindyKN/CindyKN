@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CindyKN
+- 👋 Hi, I’m @Cindy King'ori.
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently working as a Business Analyst.
 
