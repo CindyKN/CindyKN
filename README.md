@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cindy King'ori.
 - 👀 I’m interested in Data Science and Analytics.
-- 🌱 I’m currently working as a Business Analyst.
 
 <!---
 CindyKN/CindyKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
