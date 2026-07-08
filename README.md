@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cindy King'ori.
-- 👀 I’m an Ecnomist skilled in Data Science.
+- 👀 I’m an Economist skilled in Data Science.
 
 <!---
 CindyKN/CindyKN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
